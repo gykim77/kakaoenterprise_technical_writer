@@ -12,3 +12,6 @@
 
 3. IoT-enabled Solutions for Tour Photography Services
   * 관광 사진 촬영 서비스를 제공하기 위한 IoT 기반 솔루션을 제안하는 논문입니다. 
+
+4. 모비우스 대회 상장
+  * 대회 참여 증빙 자료입니다.
